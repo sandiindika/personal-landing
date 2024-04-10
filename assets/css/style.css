@@ -8723,12 +8723,7 @@ h1, h2, h3, h4, h5,
     color: #E5E5E5;
     list-style: none;
     margin-bottom: 10px; }
-    .ftco-about ul.about-info li span {
-      width: calc(100% - 130px); }
-      .ftco-about ul.about-info li span:first-child {
-        font-weight: 600;
-        color: #6EC5B8;
-        width: 130px; }
+    
 
 .ftco-about .counter-wrap .text p {
   font-size: 20px; }
