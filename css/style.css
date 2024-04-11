@@ -9223,6 +9223,9 @@ textarea.form-control {
       -webkit-transform: translate(-50%, -50%);
       -ms-transform: translate(-50%, -50%);
       transform: translate(-50%, -50%); }
+      .ftco-footer-social li a img {
+        margin: 20%;
+        width: 30px; }
     .ftco-footer-social li a:hover {
       color: #fff; }
 
