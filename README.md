@@ -1,5 +1,5 @@
 ## Personal Portfolio
 
-### [Live Site](https://sandiindika.github.io/personal-landing/)
+### [Live Site](https://sandidika.vercel.app/)
 
 ![Portfolio Website](home.png)
